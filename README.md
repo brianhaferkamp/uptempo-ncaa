@@ -3,8 +3,9 @@ This is the prototype for NCAA version of Uptempo Basketball. Download the cards
 
 There are three demo teams to download (1 page). Give these a try and see how the game plays.
 
-[Download the 3 demo teams](https://github.com/brianhaferkamp/uptempo-ncaa/raw/main/Uptempo_Basketball_NCAA_1990s_Decade_Sweet-16.pdf)
-[Download NCAA timer](https://github.com/brianhaferkamp/uptempo-ncaa/raw/main/Uptempo_Basketball_NCAA_Timer.pdf)
+[Download the 3 demo teams](https://github.com/brianhaferkamp/uptempo-ncaa/raw/main/Uptempo_Basketball_NCAA_1990s_Decade_Sweet-16.pdf)\
+[Download NCAA timer](https://github.com/brianhaferkamp/uptempo-ncaa/raw/main/Uptempo_Basketball_NCAA_Timer.pdf)\
+[Download the Uptempo Basketball Guide](https://github.com/brianhaferkamp/basketball-game/raw/main/Uptempo%20Basketball%20Game%20Guide.pdf)
 
 ## Timing
 
