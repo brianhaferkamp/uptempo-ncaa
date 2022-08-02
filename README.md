@@ -1,4 +1,5 @@
-# uptempo-ncaa
+# Uptempo Basketball - NCAA
+
 This is the prototype for NCAA version of Uptempo Basketball. Download the cards and play according to the basic Uptempo rules. The main difference is that there is no defense in the game. Feel free to suggest a way to get a defense value, just be sure that is based on a reproduceable formula (i.e., based on stats or data that can be easily gotten and not based on subjective ratings). 
 
 There are three demo teams to download (1 page): 1990 UNLV, 1990 Loyola Marymount, and 1992 Duke. Give these a try and see how the game plays.
