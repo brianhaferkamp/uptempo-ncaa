@@ -14,4 +14,4 @@ Game time in college is different than the NBA so the clock reflects two 20 minu
 
 ## Feedback
 
-Please give your feedback on the college version. Are the games about right? Does scoring need to be throttled back or pumped up? Is game time (# of possessions) long enough? Please send your feedback to uptempobasketballgame@gmail.com.
+Please give your feedback on the college version. Are the games about right? Does scoring need to be throttled back or pumped up? Is game time (# of possessions) long enough? Please send your feedback to clarkandaddisongaming@gmail.com.
